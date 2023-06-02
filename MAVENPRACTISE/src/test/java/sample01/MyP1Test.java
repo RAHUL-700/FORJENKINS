@@ -18,7 +18,7 @@ public class MyP1Test {
 		/*WebDriver driver=null;
 		FileUtilities flib=new FileUtilities();*/
 		
-		String browser=System.getProperty("browser");
+		/*String browser=System.getProperty("browser");
 		String url=System.getProperty("url");
 		if(browser.equalsIgnoreCase("chrome")) {
 			
@@ -29,7 +29,7 @@ public class MyP1Test {
 			WebDriverManager.firefoxdriver().setup();
 			driver=new FirefoxDriver();
 		}
-		driver.get(url);
+		driver.get(url);*/
 		System.out.println("hi001");
 	}
 	
