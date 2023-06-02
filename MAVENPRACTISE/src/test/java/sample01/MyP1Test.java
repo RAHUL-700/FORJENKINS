@@ -12,7 +12,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class MyP1Test {
  
-	WebDriver driver;
+	//WebDriver driver;
 	@Test
 	public void m1() throws IOException {
 		/*WebDriver driver=null;
